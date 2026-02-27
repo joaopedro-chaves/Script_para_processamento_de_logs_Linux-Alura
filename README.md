@@ -4,7 +4,7 @@ Este repositório é destinado a exibir o projeto final no "Curso de Linux: cria
 
 monitoramento-logs.sh é o arquivo original com comentários em inglês e português
 
-monitoramento-logs.sh é o arquivo alternativo com alteração feitas por fora, há também comentários em inglês e português
+monitoramento-logs-alt.sh é o arquivo alternativo com alteração feitas por fora, há também comentários em inglês e português
 
 ---
 
@@ -12,4 +12,4 @@ This repository is showcase to display the final project for the "Linux Course: 
 
 monitoring-logs.sh is the original file with comments in English and Portuguese
 
-monitoring-logs.sh is the alternative file with changes made from the outside, there are also comments in English and Portuguese
+monitoring-logs-alt.sh is the alternative file with changes made from the outside, there are also comments in English and Portuguese
